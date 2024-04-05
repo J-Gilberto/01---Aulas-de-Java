@@ -13,8 +13,7 @@ public class CuriosidadeInt {
         // -2147483648 .
         // Então sempre prestar atenção em possiveis perguntas relacionadas a isso,
         // pois quando o valor chega acima de '2147483647' em uma soma, ele apresenta o
-        // menor numero
-        // de forma negativa.
+        // menor numero de forma negativa.
 
     }
 }
