@@ -26,7 +26,7 @@ public class Aula10 {
 
         // Não praticar, pois é uma má pratica !
         int a = 37;
-        String b = "Gilbeto";
+        String b = "Gilberto";
 
     }
 }
