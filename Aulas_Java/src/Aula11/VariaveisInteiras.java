@@ -7,7 +7,7 @@ public class VariaveisInteiras {
         byte idade01 = 20;
         short idade02 = 21;
         int idade03 = 22;
-        long idade04 = 23;
+        long idade04 = 23l;
 
         System.out.println("Valor da Variavel Idade01 = " + idade01);
         System.out.println("Valor da Variavel Idade02 = " + idade02);
